@@ -19,7 +19,7 @@
     <gap:platform name="android" />
 <preference name="fullscreen" value="true" />
 <preference name="orientation" value="portrait" />
-<preference name="android-minSdkVersion" value="16" />
+<preference name="android-minSdkVersion" value="18" />
 
 <icon src="reso/phoneicons/android/res/drawable-ldpi/Icon.png" gap:platform="android" gap:qualifier="ldpi" />
 <icon src="reso/phoneicons/android/res/drawable-mdpi/Icon.png" gap:platform="android" gap:qualifier="mdpi" />
