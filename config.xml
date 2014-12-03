@@ -13,11 +13,16 @@
         An example for phonegap build docs. 
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
+    <author href="https://prantikv.com" email="desimemeapp@gmail.com">
        Prantik Vaghela
     </author>
-     <icon src="reso/phoneicons/android/res/drawable-ldpi/Icon.png" gap:platform="android" gap:qualifier="ldpi" />
+    <gap:platform name="android" />
+<preference name="fullscreen" value="true" />
+<preference name="orientation" value="portrait" />
+<preference name="android-minSdkVersion" value="17" />
+<icon src="reso/phoneicons/android/res/drawable-ldpi/Icon.png" gap:platform="android" gap:qualifier="ldpi" />
 <icon src="reso/phoneicons/android/res/drawable-mdpi/Icon.png" gap:platform="android" gap:qualifier="mdpi" />
 <icon src="reso/phoneicons/android/res/drawable-hdpi/Icon.png" gap:platform="android" gap:qualifier="hdpi" />
 <icon src="reso/phoneicons/android/res/drawable-xhdpi/Icon.png" gap:platform="android" gap:qualifier="xhdpi" />
+
 </widget>
