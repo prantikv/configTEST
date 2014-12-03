@@ -13,7 +13,7 @@
         An example for phonegap build docs. 
     </description>
 
-    <author href="https://www.prantikv.com" email="desimemeapp@gmail.com">
+    <author href="https://www.prantikv.com" email="johndoe@gmail.com">
        Prantik Vaghela
     </author>
     <gap:platform name="android" />
