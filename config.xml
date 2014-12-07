@@ -10,7 +10,7 @@
     <name>configTEST</name>
 
     <description>
-        An example for phonegap build docs. 
+        An example for config file test.
     </description>
 
     <author href="https://www.prantikv.com" email="johndoe@gmail.com">
@@ -20,6 +20,7 @@
 <preference name="fullscreen" value="true" />
 <preference name="orientation" value="portrait" />
 <preference name="android-minSdkVersion" value="18" />
+<!-- <preference name="android-minSdkVersion" value="17" /> -->
 
 <icon src="reso/phoneicons/android/res/drawable-ldpi/Icon.png" gap:platform="android" gap:qualifier="ldpi" />
 <icon src="reso/phoneicons/android/res/drawable-mdpi/Icon.png" gap:platform="android" gap:qualifier="mdpi" />
